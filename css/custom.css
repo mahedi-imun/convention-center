@@ -4,3 +4,27 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.packages-button-bg{
+    background-color: #F496D1;
+}
+.packages-button-text{
+    color: #ffff;
+}
+p .fas{
+    color: #5243C2;
+}
+    
+
+.detils-text-color {
+    color: fff;
+}
+.most-famous {
+    color:#fff;
+    background-color: red;
+    padding: 1px 10px;
+    border-radius: 15px;
+    position:absolute;
+    top: -15px;
+    right: 10px;
+}
