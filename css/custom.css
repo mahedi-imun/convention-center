@@ -19,13 +19,3 @@ p .bi{
 .detils-primary svg {
     color: #ffff;
 }
-
-.most-famous {
-    color:#fff;
-    background-color: #FF4E4E;
-    padding: 1px 10px;
-    border-radius: 15px;
-    position:absolute;
-    top: -13px;
-    right: 13px;
-}
