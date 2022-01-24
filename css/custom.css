@@ -11,14 +11,15 @@ body{
 .packages-button-text{
     color: #ffff;
 }
-p .fas{
+p .bi{
     color: #5243C2;
+    
 }
     
-
-.detils-text-color {
-    color: fff;
+.detils-primary svg {
+    color: #ffff;
 }
+
 .most-famous {
     color:#fff;
     background-color: #FF4E4E;
